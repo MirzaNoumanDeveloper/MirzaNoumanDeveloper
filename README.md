@@ -36,7 +36,7 @@
 
 ### 🧠 Languages & Frameworks
 
-- Languages: Dart, JavaScript, HTML, CSS
+- Languages: Dart, Flutter
 - State Management: GetX, Riverpod, Provider
 - Firebase: Auth, Firestore, Realtime DB, Storage
 - Tools: Git, GitHub, Figma, Postman, VS Code
